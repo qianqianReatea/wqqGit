@@ -8,4 +8,5 @@ Git is free softwareGit is a version control system.
 wqq edit add 
 修改 修改
 add new words 
-hello world 
+hello world
+2、我是master在最后一行修改 master的文件 
