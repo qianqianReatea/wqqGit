@@ -11,3 +11,4 @@ add new words
 hello world
 2、我是master在最后一行修改 master的文件 
 1、end 我是新建的分支 feature1
+分支管理策略 合并分支， fast forward模式
